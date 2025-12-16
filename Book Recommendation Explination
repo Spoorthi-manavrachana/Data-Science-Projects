@@ -1,0 +1,28 @@
+# Book Recommendation System
+
+## Project Overview
+This project focuses on building a book recommendation system using machine learning techniques. The system recommends books to users based on similarity and reading preferences.
+
+## Tools & Technologies
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Jupyter Notebook  
+
+## Objective
+To develop a recommendation model that suggests relevant books to users using collaborative filtering and similarity-based approaches.
+
+## Key Steps
+- Data collection and cleaning  
+- Exploratory Data Analysis (EDA)  
+- Feature engineering  
+- Similarity calculation using cosine similarity  
+- Generating personalized book recommendations  
+
+## Outcome
+- Successfully built a recommendation engine that suggests books based on user interest
+- Improved understanding of recommender systems and similarity models
+
+## Status
+Completed as part of Data Science learning and project practice. 
